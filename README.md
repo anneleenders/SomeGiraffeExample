@@ -7,7 +7,7 @@ https://www.giraffe.tools/gh/$username/$repository/$branch
 
 So for this repository, that would be:
 
-https://www.giraffe.tools/gh/TimVanMourik/SomeGiraffeExample/master
+https://www.giraffe.tools/gh/anneleenders/SomeGiraffeExample/master
 
 ## Work In Progress
 This application is actively being developed and in the future will support
